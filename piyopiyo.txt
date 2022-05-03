@@ -2,3 +2,4 @@ hogee
 git merge
 git merge 2
 git merge 3
+hoge
