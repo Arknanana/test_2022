@@ -5,4 +5,7 @@ git merge 3
 hoge
 hogehuga
 hogehuga
-hogehuga
+hogehuga[[
+
+おひげ
+]]
