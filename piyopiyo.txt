@@ -4,5 +4,4 @@ git merge 2
 git merge 3
 hoge
 hogehuga
-hogehuga
-hogehuga
+koreha konnfurikuto
