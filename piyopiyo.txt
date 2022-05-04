@@ -11,3 +11,5 @@ git merge 3
 たろうくん
 おひげがのびた
 Lets pull request!
+
+git hub flow
