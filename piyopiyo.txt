@@ -10,3 +10,5 @@ git merge 3
 わんちゃん
 たろうくん
 おひげがのびた
+
+Lets pull request!
