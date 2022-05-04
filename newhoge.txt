@@ -6,3 +6,5 @@ hoge
 rebase_branchの変更
 
 feature
+
+githubでの変更
