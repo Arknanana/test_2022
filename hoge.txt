@@ -12,3 +12,5 @@ masterの変更
 rebaseの変更
 
 master2
+
+local master
