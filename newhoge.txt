@@ -19,3 +19,5 @@ local3
 local4
 
 local6
+
+hoge
