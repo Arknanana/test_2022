@@ -25,3 +25,6 @@ remote 4
 remote 5
 
 local6
+
+piyo
+aaa

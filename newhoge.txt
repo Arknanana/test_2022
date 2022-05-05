@@ -20,4 +20,6 @@ local4
 
 local6
 
-hoge  
+hoge
+
+fuga
